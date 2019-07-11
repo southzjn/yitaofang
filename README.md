@@ -27,7 +27,7 @@ React + Redux + React-router + Antd-mobile +express + mongodb
 
 （1）源代码文件目录
 
-YiTaoFang
+yitaofang
 
 |-------client        ----前端项目
 

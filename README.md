@@ -1,5 +1,5 @@
 # yitaofang
-React + Redux + React-router + Antd-mobile +express + mongodb
+项目使用的技术：React + Redux + React-router + Antd-mobile +express + mongodb
 
 一、安装和配置开发环境
 
